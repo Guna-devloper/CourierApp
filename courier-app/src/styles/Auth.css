@@ -1,0 +1,51 @@
+/* src/styles/Auth.css */
+
+/* Center the form container */
+.auth-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #f8f9fa;
+  }
+  
+  /* Card styling */
+  .auth-card {
+    width: 100%;
+    max-width: 400px;
+    padding: 20px;
+    border-radius: 8px;
+    background: white;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  /* Form input styling */
+  .auth-form input {
+    padding: 10px;
+    font-size: 16px;
+  }
+  
+  /* Button styling */
+  .auth-button {
+    width: 100%;
+    padding: 10px;
+    font-size: 18px;
+    margin-top: 10px;
+  }
+  
+  /* Mobile-friendly adjustments */
+  @media (max-width: 576px) {
+    .auth-card {
+      padding: 15px;
+      max-width: 90%;
+    }
+  
+    .auth-form input {
+      font-size: 14px;
+    }
+  
+    .auth-button {
+      font-size: 16px;
+    }
+  }
+  

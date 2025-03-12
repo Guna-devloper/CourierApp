@@ -1,0 +1,62 @@
+/* src/styles/BookNow.css */
+
+.booknow-page {
+    text-align: center;
+    padding: 20px;
+  }
+  
+  .booknow-card {
+    max-width: 500px;
+    margin: 0 auto;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.15);
+  }
+  
+  .booknow-title {
+    font-size: 24px;
+    font-weight: bold;
+    color: #007bff;
+  }
+  
+  .service-name {
+    font-size: 20px;
+    font-weight: bold;
+    color: #333;
+  }
+  
+  .service-description {
+    font-size: 16px;
+    color: #666;
+  }
+  
+  .service-price {
+    font-size: 18px;
+    font-weight: bold;
+    color: #28a745;
+  }
+  
+  .form-control, .form-select {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 15px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+  }
+  
+  .confirm-btn {
+    background-color: #28a745;
+    width: 100%;
+    font-size: 16px;
+    font-weight: bold;
+    padding: 10px;
+    margin-bottom: 10px;
+  }
+  
+  .back-btn {
+    width: 100%;
+    font-size: 16px;
+    font-weight: bold;
+    padding: 10px;
+  }
+  

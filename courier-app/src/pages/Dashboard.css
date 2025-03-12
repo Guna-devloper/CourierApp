@@ -1,0 +1,27 @@
+/* src/styles/Dashboard.css */
+
+.dashboard-container {
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .dashboard-header {
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 20px;
+  }
+  
+  .dashboard-card {
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  .orders-table {
+    margin-top: 10px;
+  }
+  
+  .dashboard-btn {
+    width: 100%;
+  }
+  
